@@ -1,0 +1,10 @@
+{
+    "name": "InfluxDBExporter",
+    "version": "0.0.1",
+    "title": "Influx Exporter",
+    "author": "Lovwyr",
+    "description": "",
+    "homepage": "https://github.com/lovwyr/factInfluxexp",
+    "dependencies": ["base >= 0.15.0"],
+    "factorio_version": "0.15"
+}
